@@ -1,0 +1,12 @@
+Added Component: Designator=J5(CON_M1x3PIN)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.precidip.com/en/Products/PCB-Connectors/pview/890-PP-NNN-10-001101.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "8.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Preci-Dip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "890-70-003-10-001101"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Use"; Value = "UPDI"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-3
+Added Member To Class: ClassName=controller-ic Member=Component J5 890-70-003-10-001101

@@ -1,0 +1,28 @@
+Added Component: Designator=J7(CON_F1x2Pin)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMC-1-02-1-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smc-1-02-1-gt/adam-tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://app.adam-tech.com/products/download/data_sheet/203379/smc-1-xx-1-gt-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.381mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMC-1-02-1-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(CON_F1x2Pin)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMC-1-02-1-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smc-1-02-1-gt/adam-tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://app.adam-tech.com/products/download/data_sheet/203379/smc-1-xx-1-gt-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.381mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMC-1-02-1-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_2 Pin=J8-2
+Add Pin To Net: Unknown Pin: Pin THERMISTOR-1
+Add Pin To Net: Unknown Pin: Pin THERMISTOR-2
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ7_2 Pin=J7-2
+Added Net: Name=NetJ7_2
+Added Member To Class: ClassName=heatbed Member=Component J7 CON_F1x2Pin
+Added Member To Class: ClassName=heatbed Member=Component J8 CON_F1x2Pin

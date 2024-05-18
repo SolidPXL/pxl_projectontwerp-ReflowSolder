@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=J1 Old Footprint=CON_F1x2Pin New Footprint=CON_M1x2PIN_SHROUDED
+Change Component Footprint: Designator=J2 Old Footprint=CON_F1x2Pin New Footprint=CON_M1x2PIN_SHROUDED
+Change Component Footprint: Designator=J3 Old Footprint=CON_F1x2Pin New Footprint=CON_M1x2PIN_SHROUDED
+Change Component Footprint: Designator=J4 Old Footprint=CON_F1x2Pin New Footprint=CON_M1x2PIN_SHROUDED
+Change Pin Designator/Name:  Old Designator=ENCODER-D1 Old Name=SW1 New Designator =MH1 New Name=MH1
+Change Pin Designator/Name:  Old Designator=ENCODER-MH1 Old Name=MH1 New Designator =SW1 New Name=D1

@@ -1,0 +1,24 @@
+Source PCB Design PSU_Controller.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [ReflowIron-00-assembly.PrjPcb]
+   Generated File[PSU_Controller_Copper_Signal_Top.gbr]
+   Generated File[PSU_Controller_Copper_Signal_Bot.gbr]
+   Generated File[PSU_Controller_Legend_Top.gbr]
+   Generated File[PSU_Controller_Legend_Bot.gbr]
+   Generated File[PSU_Controller_Soldermask_Top.gbr]
+   Generated File[PSU_Controller_Soldermask_Bot.gbr]
+   Generated File[PSU_Controller_Paste_Top.gbr]
+   Generated File[PSU_Controller_Paste_Bot.gbr]
+   Generated File[PSU_Controller_Profile.gbr]
+   Generated File[PSU_Controller_NPTH_Drill.gbr]
+   Generated File[PSU_Controller_PTH_Drill.gbr]
+   Generated File[PSU_Controller.EXTREP]
+   Generated File[PSU_Controller.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 12:06:17 On 9-4-2024

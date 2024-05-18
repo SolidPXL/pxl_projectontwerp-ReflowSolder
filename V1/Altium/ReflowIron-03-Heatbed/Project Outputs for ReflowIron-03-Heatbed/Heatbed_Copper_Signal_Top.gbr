@@ -1,0 +1,33 @@
+%TF.GenerationSoftware,Altium Limited,Altium Designer,24.3.1 (35)*%
+G04 Layer_Physical_Order=1*
+G04 Layer_Color=255*
+%FSLAX45Y45*%
+%MOMM*%
+%TF.SameCoordinates,045C5737-8DDF-49D6-8C07-AEEE269B335A*%
+%TF.FilePolarity,Positive*%
+%TF.FileFunction,Copper,L1,Top,Signal*%
+%TF.Part,Single*%
+G01*
+G75*
+%TA.AperFunction,ViaPad*%
+%ADD10C,4.20000*%
+%TA.AperFunction,ComponentPad*%
+%ADD11R,1.20000X1.20000*%
+%ADD12C,1.20000*%
+D10*
+X300000Y9700000D02*
+D03*
+Y300000D02*
+D03*
+X9700000D02*
+D03*
+Y9700000D02*
+D03*
+D11*
+X4920000Y381000D02*
+D03*
+D12*
+X5120000D02*
+D03*
+%TF.MD5,ada10ae370d7525b1b409205ba33663f*%
+M02*

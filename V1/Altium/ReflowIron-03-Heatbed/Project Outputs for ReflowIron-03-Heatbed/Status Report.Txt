@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [ReflowIron-03-Heatbed.PrjPcb]
+   Generated File[Heatbed_Copper_Signal_Top.gbr]
+   Generated File[Heatbed_Copper_Signal_Bot.gbr]
+   Generated File[Heatbed_Legend_Top.gbr]
+   Generated File[Heatbed_Legend_Bot.gbr]
+   Generated File[Heatbed_Soldermask_Top.gbr]
+   Generated File[Heatbed_Soldermask_Bot.gbr]
+   Generated File[Heatbed_Paste_Top.gbr]
+   Generated File[Heatbed_Paste_Bot.gbr]
+   Generated File[Heatbed_Profile.gbr]
+   Generated File[Heatbed_NPTH_Drill.gbr]
+   Generated File[Heatbed_PTH_Drill.gbr]
+   Generated File[Heatbed.EXTREP]
+   Generated File[Heatbed.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 12:06:53 On 9-4-2024

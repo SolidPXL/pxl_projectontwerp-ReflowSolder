@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=+5 Pin=J4-1
+Change Component Footprint: Designator=C1 Old Footprint=CAP_0603US-IPC_A New Footprint=CAP_0603US-IPC_C
+Change Component Footprint: Designator=C2 Old Footprint=CAP_0603US-IPC_A New Footprint=CAP_0603US-IPC_C
+Change Component Footprint: Designator=C3 Old Footprint=CAP_0603US-IPC_A New Footprint=CAP_0603US-IPC_C
+Change Component Footprint: Designator=C4 Old Footprint=CAP_0603US-IPC_A New Footprint=CAP_0603US-IPC_C
+Change Component Footprint: Designator=C5 Old Footprint=CAP_0603US-IPC_A New Footprint=CAP_0603US-IPC_C
+Change Component Footprint: Designator=C6 Old Footprint=CAP_0603US-IPC_A New Footprint=CAP_0603US-IPC_C
+Change Component Footprint: Designator=C7 Old Footprint=CAP_0603US-IPC_A New Footprint=CAP_0603US-IPC_C
+Change Component Footprint: Designator=C12 Old Footprint=CAP_0805US_HighDen New Footprint=CAP_0603US-IPC_C
+Change Component Footprint: Designator=R1 Old Footprint=RES_0603US_TF-IPC_A New Footprint=RES_0603US_TF-IPC_C
+Change Component Footprint: Designator=R2 Old Footprint=RES_0603US_TF-IPC_A New Footprint=RES_0603US_TF-IPC_C
+Change Component Footprint: Designator=R3 Old Footprint=RES_0603US_TF-IPC_A New Footprint=RES_0603US_TF-IPC_C
+Change Component Footprint: Designator=R4 Old Footprint=RES_0603US_TF-IPC_A New Footprint=RES_0603US_TF-IPC_C
+Change Component Footprint: Designator=R5 Old Footprint=RES_0603US_TF-IPC_A New Footprint=RES_0603US_TF-IPC_C
+Change Component Footprint: Designator=R7 Old Footprint=RES_0603US_TF-IPC_A New Footprint=RES_0603US_TF-IPC_C
+Change Component Comment : Designator=J4 Old Comment=CON_F1x2Pin New Comment=PlateTemp
+Added Component: Designator=J7(CON_M1X2PIN_CLAMP)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMC-1-02-1-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smc-1-02-1-gt/adam-tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://app.adam-tech.com/products/download/data_sheet/203379/smc-1-xx-1-gt-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.381mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMC-1-02-1-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(CON_M1X2PIN_CLAMP)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SMC-1-02-1-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/smc-1-02-1-gt/adam-tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://app.adam-tech.com/products/download/data_sheet/203379/smc-1-xx-1-gt-data-sheet.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4.381mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Adam Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMC-1-02-1-GT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES_0603US_TF-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES_0603US_TF-IPC_C)
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "1608"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Rating"; Value = "100mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "4.7kR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "100ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "7.1E-05oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.8mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J7-2
+Added Pin To Net: NetName=+5 Pin=R6-2
+Added Pin To Net: NetName=+5 Pin=R8-2
+Added Pin To Net: NetName=NetIC1_12 Pin=IC1-12
+Added Pin To Net: NetName=NetIC1_12 Pin=J7-1
+Added Net: Name=NetIC1_12
+Added Pin To Net: NetName=NetIC1_27 Pin=IC1-27
+Added Pin To Net: NetName=NetIC1_27 Pin=J8-2
+Added Net: Name=NetIC1_27
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=R6-1
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=R8-1
+Added Net: Name=NetJ8_1
+Added Member To Class: ClassName=controller-ic Member=Component J7 FAN1
+Added Member To Class: ClassName=controller-ic Member=Component J8 CaseTemp
+Added Member To Class: ClassName=controller-ic Member=Component R6 1K
+Added Member To Class: ClassName=controller-ic Member=Component R8 1K
