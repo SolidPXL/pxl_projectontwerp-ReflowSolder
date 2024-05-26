@@ -67,3 +67,4 @@ Due to the scope and time limitation of the project there are numerous known iss
 - Hole for the LCD display is too small
 - Standoffs bend and fold when inserting the threaded inserts
 - No support for a second case fan
+- No code available due to time limitation
